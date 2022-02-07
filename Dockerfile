@@ -1,4 +1,4 @@
-FROM node:12.20.0
+FROM node:12.22.0
 USER root
 
 COPY . .
