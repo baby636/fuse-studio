@@ -37,7 +37,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "chai-bn": "^0.1.1",
-    "solc": "^0.4.24",
+    "solc": "^0.5.11",
     "truffle-flattener": "^1.4.4"
   }
 }
