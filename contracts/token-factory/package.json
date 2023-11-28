@@ -26,7 +26,7 @@
     "@fuse/contract-utils": "../../@fuse/contract-utils"
   },
   "devDependencies": {
-    "truffle-assertions": "^0.7.2",
+    "truffle-assertions": "^0.8.0",
     "truffle-flattener": "^1.4.4"
   }
 }
