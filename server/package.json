@@ -46,7 +46,7 @@
     "@fuse/entities-contracts": "../@fuse/entities-abi",
     "@fuse/roles": "../@fuse/roles",
     "@fuse/token-factory-contracts": "../@fuse/token-factory-abi",
-    "@portis/web3": "^2.0.0-beta.54",
+    "@portis/web3": "^3.0.0",
     "@sendgrid/client": "^6.3.0",
     "@sendgrid/mail": "^6.3.1",
     "agenda": "^2.0.2",
@@ -88,7 +88,7 @@
     "request-promise-native": "^1.0.7",
     "twilio": "^3.37.0",
     "validator": "^10.10.0",
-    "web3": "^2.0.0-alpha.1",
+    "web3": "^4.0.1",
     "web3-utils": "^1.2.1",
     "yn": "^4.0.0"
   },
@@ -96,8 +96,8 @@
     "@babel/traverse": "^7.7.4",
     "@babel/types": "^7.7.4",
     "@rigwild/apidoc-markdown": "^2.0.2",
-    "apidoc": "^0.17.7",
+    "apidoc": "^0.50.0",
     "nodemon": "^1.18.11",
-    "standard": "^12.0.1"
+    "standard": "^16.0.0"
   }
 }
