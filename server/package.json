@@ -88,8 +88,8 @@
     "request-promise-native": "^1.0.7",
     "twilio": "^3.37.0",
     "validator": "^10.10.0",
-    "web3": "^2.0.0-alpha.1",
-    "web3-utils": "^1.2.1",
+    "web3": "^4.0.1",
+    "web3-utils": "^4.2.1",
     "yn": "^4.0.0"
   },
   "devDependencies": {
