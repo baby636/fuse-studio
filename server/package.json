@@ -88,14 +88,14 @@
     "request-promise-native": "^1.0.7",
     "twilio": "^3.37.0",
     "validator": "^10.10.0",
-    "web3": "^2.0.0-alpha.1",
+    "web3": "^4.0.1",
     "web3-utils": "^1.2.1",
     "yn": "^4.0.0"
   },
   "devDependencies": {
     "@babel/traverse": "^7.7.4",
     "@babel/types": "^7.7.4",
-    "@rigwild/apidoc-markdown": "^2.0.2",
+    "@rigwild/apidoc-markdown": "^5.0.0",
     "apidoc": "^0.17.7",
     "nodemon": "^1.18.11",
     "standard": "^12.0.1"
