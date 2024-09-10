@@ -67,7 +67,7 @@
     "react-modal-hook": "^3.0.0",
     "react-phone-input-2": "^2.11.0",
     "react-redux": "^7.1.0",
-    "react-router": "^5.1.2",
+    "react-router": "^6.0.0",
     "react-select": "^3.0.8",
     "react-sidebar": "^3.0.2",
     "react-table": "^7.5.1",
@@ -81,7 +81,7 @@
     "redux-saga": "^1.0.0",
     "reselect": "^3.0.1",
     "superagent": "^3.8.3",
-    "web3": "^1.0.0-beta.55",
+    "web3": "^4.0.1",
     "web3modal": "^1.9.1",
     "websocket": "^1.0.28",
     "yup": "^0.29.3"
