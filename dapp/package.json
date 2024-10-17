@@ -81,7 +81,7 @@
     "redux-saga": "^1.0.0",
     "reselect": "^3.0.1",
     "superagent": "^3.8.3",
-    "web3": "^1.0.0-beta.55",
+    "web3": "^4.2.0",
     "web3modal": "^1.9.1",
     "websocket": "^1.0.28",
     "yup": "^0.29.3"
@@ -122,7 +122,7 @@
     "sass-loader": "^10.1.0",
     "standard": "^16.0.3",
     "style-loader": "^2.0.0",
-    "webpack": "^4.6.0",
+    "webpack": "^5.0.0",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   }
