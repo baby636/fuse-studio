@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:25.6.0-bookworm
 USER $UID:$GID
 WORKDIR /app
 RUN apt install git
