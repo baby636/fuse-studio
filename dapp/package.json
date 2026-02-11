@@ -109,7 +109,7 @@
     "babel-loader": "^8.2.2",
     "chai": "^4.1.2",
     "css-loader": "^2.1.1",
-    "favicons-webpack-plugin": "^4.2.0",
+    "favicons-webpack-plugin": "^5.0.0",
     "file-loader": "^1.1.11",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^4.5.0",
